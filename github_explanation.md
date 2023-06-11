@@ -2,8 +2,7 @@
 
 ## 準備
 
-- github アカウントを作る
-- 学生登録する
+- github アカウントを作る&学生登録する
 - mac でアカウントと繋げる
 
 - vscode を入れる
@@ -16,16 +15,24 @@
 - ステージにあげてコミットしてプッシュしてプルする
 - プルリクを送る
 
-# Unity のプロジェクトを github で共有する
+## Unity のプロジェクトを github で共有する
 
+Unity のテキストエディタを vscode にする
+Unity のプロジェクトファイルを vscode で開く
 プロジェクトファイルの中に.gitignore を作る  
 作った.gitignore に以下をコピーする
-
-.gitignore の中身
 
 ```
 .DS_Store
 ```
+
+**VScode 上**  
+git を選択する  
+自分の github にレポジトリを作る
+
+**github 上**  
+github でレポジトリの設定を開く  
+レポジトリをオーガナイゼーションに移動させる
 
 # git 基本
 
